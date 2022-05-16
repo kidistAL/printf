@@ -47,5 +47,4 @@ int main(void)
 	return (0);
 }
 
-# Authors:
-Abel Berhanu and Robel Amede
+
